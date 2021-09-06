@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "888875902244",
+    "project_id": "wall-4c62b",
+    "storage_bucket": "wall-4c62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888875902244:android:518b066fd80ec2c4a0ffb1",
+        "android_client_info": {
+          "package_name": "com.example.waldrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888875902244-lo513qau19sqopip2juofstrd95b3r61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waldrop",
+            "certificate_hash": "9a42cc8283135d2ca6a4ed187ff3b637adc4de46"
+          }
+        },
+        {
+          "client_id": "888875902244-dk36b4rgnle0vbrmamsdgup2v0r17n0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQplWfWzkVhV2MfyZ1cp_7t4-HEu8Mtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888875902244-dk36b4rgnle0vbrmamsdgup2v0r17n0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
